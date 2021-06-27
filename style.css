@@ -1,0 +1,145 @@
+.heading
+{
+font-size: 27px;
+width: 100%;
+margin: 0px;
+border: 3px;
+border-color: rgb(0, 0, 0);
+border-style: solid;
+animation-name: example;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+.bedroom
+{
+font-size: 25px;
+width: 30%;
+margin: 0px;
+border: 3px;
+border-radius: 30px;
+border-color: rgb(0, 0, 0);
+border-style: solid;
+animation-name: example;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+.tvac
+{
+font-size: 25px;
+width: 30%;
+margin: 0px;
+border: 3px;
+border-color: rgb(0, 0, 0);
+border-radius: 30px;
+border-style: solid;
+animation-name: example;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+.desk
+{
+font-size: 25px;
+width: 30%;
+margin: 0px;
+border: 3px;
+border-color: rgb(0, 0, 0);
+border-style: solid;
+border-radius: 30px;
+animation-name: example;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+.bottles
+{
+font-size: 25px;
+width: 30%;
+margin: 0px;
+border: 3px;
+border-color: rgb(0, 0, 0);
+border-radius: 30px;
+border-style: solid;
+animation-name: example;
+animation-duration: 2s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+.fb
+{
+font-size: 25px;
+width: 30%;
+margin: 0px;
+border: 3px;
+border-color: rgb(0, 0, 0);
+border-style: solid;
+animation-name: example;
+animation-duration: 2s;
+border-radius: 30px;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+
+#status
+{
+font-size: 18px;
+}
+body {
+    background-position: center;
+    background-size: cover;
+}
+#m_glass {
+    width: 60px;
+    height: 60px;
+}
+
+canvas {
+    border: 5px;
+    border-color: rgb(255, 0, 0);
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: 70px;
+    animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
+.status {
+    border: 3px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 60px;
+    animation-name: example;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes example {
+    from{box-shadow: 5px 5px 30px #ff0000;}
+    to{box-shadow: 5px 5px 30px #8400ff;}
+}
